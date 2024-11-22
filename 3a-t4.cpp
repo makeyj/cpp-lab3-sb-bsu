@@ -7,7 +7,6 @@ cout << " Enter the amount of integers to sum = "; cin >> k;
 if (k==0) {
     cout << "No integers can be summed";
 }
-
 else {
 do {
 cout << "Enter integer nr. " << i << ": ";
